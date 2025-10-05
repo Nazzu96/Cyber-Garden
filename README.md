@@ -4,12 +4,16 @@
 Для приёмника: ardoino uno, tcs34725.
 Для передатчика: esp32, rgb led.
 
+
+
 В DesktopClient ПК приложение для декодирования данных приёмника. 
 
 Схема подключения приёмника:
-![[receiver_sheme.jpeg]]
+
+![](receiver_sheme.jpeg)
 
 
 Схема подключения передатчика:
-![[sender_sheme.jpeg]]
+
+![](sender_sheme.jpeg)
 
